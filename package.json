@@ -1,0 +1,23 @@
+{
+    "bin": {
+        "ye-cli": "bin/cli.js"
+    },
+    "name": "ts-mini-cli",
+    "version": "1.0.0",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "clear-console": "^1.1.0",
+        "commander": "^7.1.0",
+        "inquirer": "^8.0.0",
+        "shelljs": "^0.8.4"
+    },
+    "devDependencies": {},
+    "scripts": {},
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
